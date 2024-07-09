@@ -15,5 +15,4 @@ void main()
   {
     print('nigger');
   }
-  int num=int.parse(stdin.readLineSync()!);
 }
