@@ -8,5 +8,4 @@ void main()
   print(a);
   double c = 3.4;
   print(c);
-  
 }
